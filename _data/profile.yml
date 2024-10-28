@@ -1,18 +1,18 @@
-primary_name: "Your Name"
+primary_name: "Jonathan Auton"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jonathan Auton"
 
 positions:
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+  name: University of Warwick
+- name: 
 
 
-email: "your@email.com"
+email: "Jonathan.Auton@warwick.ac.uk"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: jonauton
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -22,12 +22,23 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am currently a 4th year Masters of Engineering Discrete Mathematics student at the University of Warwick. 
+    I find particularly enjoyable the process of applying my knowledge of algorithms and mathematics to solve deep and fascinating problems,
+    creating something new and unexplored, and collaborating with a team to discover something amazing!
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I have a broad interest in all of:
+    <ul>
+      <li>Automata and formal languages</li>
+      <li>Logic and games</li>
+      <li>Computational complexity</li>
+      <li>Discrete mathematics</li>
+      <li>Axiomatic set theory</li>
+      <li>Theoretical machine learning</li>
+    <\ul>
+  </p>
+  <p>
+    I am currently looking for a PhD position within these interests, so if you are interested in supervising such a project, email me.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,22 +46,27 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: University of Warwick
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+    Masters of Engineering, Discrete Mathematics # <br/>
+  date: Sep. 2021 - present
+- name: Ashby School
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
+  position: A levels - Computer Science (A*), Maths (A*), Further Maths (A*), Physics (A*)
   date: Sep. 2019 - Jul. 2021
+- name: Ashby School
+  logo: /assets/images/badges/PKU_red.png
+  position: >-
+    Level 2 Certificate in Further Maths (A^ top grade)
+    10 GCSEs incl. Computer Science (8), Maths (9), Design and Technology (9), Physics (9), English Language (7) overall (3x 9, 2x 8, 3x 7, 2x 5)
+  date: Sep. 2017 - Jul. 2019
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: University of Warwick - URSS Research Project
+  logo: /assets/images/badges/PKU_red.png
+  position: AI Researcher
+  date: July. 2024 - Sep. 2024
 
 awards:
 - name: Award Name 2
