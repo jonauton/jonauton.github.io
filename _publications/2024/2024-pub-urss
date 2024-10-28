@@ -1,0 +1,20 @@
+---
+title:          "Investigating the Gradient Descent of Neural Networks at the Edge of Stability"
+date:           2024-10-25 00:01:00 +0000
+selected:       true
+pub:            "URSS Showcase"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2024"
+
+abstract: >-
+  Artificial neural networks are a type of self-learning computer algorithm that have become central to the development of modern AI systems. The most used self-learning technique is gradient descent, a simple yet effective algorithm that iteratively improves a network by tweaking it repeatedly in a direction of improving accuracy. However, new findings suggest the step size cannot be made small enough to avoid the effects of iterative instability. As a result, the learning process tends to become chaotic and unpredictable. What is fascinating about this chaotic nature is that despite it, gradient descent still finds effective solutions. My project seeks to develop an understanding of the underlying mechanisms of this chaotic nature that is paradoxically effective.
+cover:          /assets/images/covers/cover_urss.png
+authors:
+  - Jonathan Auton
+  - Ranko Lazic
+  - Matthias Englert
+links:
+  Poster: https://urss.warwick.ac.uk/items/show/661
+---
