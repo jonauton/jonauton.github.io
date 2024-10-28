@@ -41,9 +41,9 @@ short_bio: >-
     I am currently looking for a PhD position within these interests, so if you are interested in supervising such a project, email me.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: University of Warwick
