@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Jonathan Auton"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/warwick_logo.jpeg  # Logo is optional
   name: University of Warwick
-- name: 
+# - name: 
 
 
 email: "Jonathan.Auton@warwick.ac.uk"
@@ -35,7 +35,7 @@ short_bio: >-
       <li>Discrete mathematics</li>
       <li>Axiomatic set theory</li>
       <li>Theoretical machine learning</li>
-    <\ul>
+    </ul>
   </p>
   <p>
     I am currently looking for a PhD position within these interests, so if you are interested in supervising such a project, email me.
@@ -47,31 +47,38 @@ portrait_caption: >-
 
 education:
 - name: University of Warwick
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/warwick_logo.jpeg
   position: >- 
-    Masters of Engineering, Discrete Mathematics # <br/>
+    Masters of Engineering, Discrete Mathematics
   date: Sep. 2021 - present
 - name: Ashby School
-  logo: /assets/images/badges/PKU_red.png
-  position: A levels - Computer Science (A*), Maths (A*), Further Maths (A*), Physics (A*)
+  logo: /assets/images/badges/ashby_school_logo.png
+  position: >-
+  A levels <br/>
+  <ul>
+    <li>Computer Science (A*)</li>
+    <li>Maths (A*)</li>
+    <li>Further Maths (A*)</li>
+    <li>Physics (A*)</li>
+  </ul>
   date: Sep. 2019 - Jul. 2021
 - name: Ashby School
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ashby_school_logo.png
   position: >-
-    Level 2 Certificate in Further Maths (A^ top grade)
+    Level 2 Certificate in Further Maths (A^ top grade) <br/>
     10 GCSEs incl. Computer Science (8), Maths (9), Design and Technology (9), Physics (9), English Language (7) overall (3x 9, 2x 8, 3x 7, 2x 5)
   date: Sep. 2017 - Jul. 2019
 
 experience:
 - name: University of Warwick - URSS Research Project
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/warwick_logo.jpeg
   position: AI Researcher
   date: July. 2024 - Sep. 2024
 
 awards:
-- name: Award Name 2
+- name: University of Warwick - Outstanding Department of Computer Science Third-Year Project Prize
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: University of Warwick - Exceptional achievement in the second year for Discrete Maths
+  date: 2023
+- name: Ashby School - Outstanding achievement in computer science 
+  date: 2019
