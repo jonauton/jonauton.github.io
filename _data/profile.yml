@@ -54,13 +54,13 @@ education:
 - name: Ashby School
   logo: /assets/images/badges/ashby_school_logo.png
   position: >-
-  A levels <br/>
-  <ul>
-    <li>Computer Science (A*)</li>
-    <li>Maths (A*)</li>
-    <li>Further Maths (A*)</li>
-    <li>Physics (A*)</li>
-  </ul>
+    A levels <br/>
+    <ul>
+      <li>Computer Science (A*)</li>
+      <li>Maths (A*)</li>
+      <li>Further Maths (A*)</li>
+      <li>Physics (A*)</li>
+    </ul>
   date: Sep. 2019 - Jul. 2021
 - name: Ashby School
   logo: /assets/images/badges/ashby_school_logo.png
