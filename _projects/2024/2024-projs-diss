@@ -9,7 +9,7 @@ proj:            "Master's Dissertation"
 proj_date:       "2024"
 
 abstract: >-
-  A Java software application for rendering a 4D representation of the Mandelbrot set. The project uses novel 4D projectional techniques to efficiently visualise and move in the space, and generalises well to alterate formulae for fractal generation.
+  A Java software application for rendering a 4D representation of the Mandelbrot set. The project uses novel 4D projectional techniques to efficiently visualise and move in the space, and generalises well to alternate formulae for fractal generation.
 cover:          /assets/images/covers/cover_diss.gif
 authors:
   - Jonathan Auton
