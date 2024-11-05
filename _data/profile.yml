@@ -8,7 +8,7 @@ positions:
 # - name: 
 
 
-email: "Jonathan.Auton@warwick.ac.uk"
+email: "Jonathan.Auton(at)warwick.ac.uk"
 # cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: jonauton
@@ -49,18 +49,36 @@ education:
 - name: University of Warwick
   logo: /assets/images/badges/warwick_logo.jpeg
   position: >- 
-    Masters of Engineering, Discrete Mathematics
+    <p>
+      Masters of Engineering, Discrete Mathematics <br/>
+      1st Year: 85.2% <br/>
+      2nd Year: 88.1% (awarded for highest) <br/>
+      3rd Year: 88.3% (awarded for project) <br/>
+      All are high first, >70% is a first.
+    </p>
   date: Sep. 2021 - present
 - name: Ashby School
   logo: /assets/images/badges/ashby_school_logo.png
   position: >-
     A levels <br/>
-    <ul>
-      <li>Computer Science (A*)</li>
-      <li>Maths (A*)</li>
-      <li>Further Maths (A*)</li>
-      <li>Physics (A*)</li>
-    </ul>
+    <table>
+      <tr>
+        <td>Computer Science: &nbsp;</td>
+        <td>A*</td>
+      </tr>
+      <tr>
+        <td>Maths:</td>
+        <td>A*</td>
+      </tr>
+      <tr>
+        <td>Further Maths:</td>
+        <td>A*</td>
+      </tr>
+      <tr>
+        <td>Physics:</td>
+        <td>A*</td>
+      </tr>
+    </table>
   date: Sep. 2019 - Jul. 2021
 - name: Ashby School
   logo: /assets/images/badges/ashby_school_logo.png
@@ -74,6 +92,14 @@ experience:
   logo: /assets/images/badges/warwick_logo.jpeg
   position: AI Researcher
   date: July. 2024 - Sep. 2024
+- name: Rolls Royce
+  logo: /assets/images/badges/rolls_royce_logo.png
+  position: Software Development Work Experience
+  date: Aug 2021
+- name: Rolls Royce
+  logo: /assets/images/badges/rolls_royce_logo.png
+  position: Work Experience Week
+  date: June 2019
 
 awards:
 - name: University of Warwick - Outstanding Department of Computer Science Third-Year Project Prize
