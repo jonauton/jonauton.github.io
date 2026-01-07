@@ -3,12 +3,12 @@ secondary_name: ""
 navbar_name: "Jonathan Auton"
 
 positions:
-- logo: /assets/images/badges/warwick_logo.jpeg  # Logo is optional
-  name: University of Warwick
-# - name: 
+# - name: <h3>Jonathan Auton</h3>
+- logo: /assets/images/badges/oxford_logo.png  # Logo is optional
+  name: University of Oxford
 
 
-email: "Jonathan.Auton(at)warwick.ac.uk"
+email: "Jonathan.Auton(at)eng.ox.ac.uk"
 # cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: jonauton
@@ -16,30 +16,36 @@ github: jonauton
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: jonauton
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
-    I am currently a 4th year Masters of Engineering Discrete Mathematics student at the University of Warwick. 
-    I find particularly enjoyable the process of applying my knowledge of algorithms and mathematics to solve deep and fascinating problems,
-    creating something new and unexplored, and collaborating with a team to discover something amazing!
+    I am currently a DPhil student in Autonomous Intelligent Machines and Systems (<a href="https://aims.robots.ox.ac.uk/">AIMS CDT</a>) at the University of Oxford.
   </p>
   <p>
-    I have a broad interest in all of:
-    <ul>
-      <li>Automata and formal languages</li>
-      <li>Logic and games</li>
-      <li>Computational complexity</li>
-      <li>Discrete mathematics</li>
-      <li>Axiomatic set theory</li>
-      <li>Theoretical machine learning</li>
-    </ul>
+    Through AIMS, I aim to contribute to the advancement of AI techniques that can be used in practical application to real-world problems, with a real capacity to benefit lives. I am particularly excited to apply my knowledge to create better, safer, and more effective AI tools.
   </p>
   <p>
-    I am currently looking for a PhD position within these interests, so if you are interested in supervising such a project, email me.
+    Before starting my DPhil, I completed a Masters of Engineering in Discrete Mathematics at the University of Warwick, graduating at the top of my cohort with First Class Honours.
+    During my degree, I completed a third-year project on an efficient 4D rendering algorithm for the Mandelbrot set, which won the department's outstanding project prize. I also undertook a summer research project on the theoretical foundations of machine learning, where I investigated the iterative instability of gradient descent.
   </p>
+  <p>
+    In my free time, I enjoy playing a variety of tabletop games, learning new things, and turning curiosities of things I learn about into software solutions.
+  </p>
+
+# <p>
+#   I have a broad interest in all of:
+#   <ul>
+#     <li>Automata and formal languages</li>
+#     <li>Logic and games</li>
+#     <li>Computational complexity</li>
+#     <li>Discrete mathematics</li>
+#     <li>Axiomatic set theory</li>
+#     <li>Theoretical machine learning</li>
+#   </ul>
+# </p>
 
 # portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
@@ -52,8 +58,9 @@ education:
     <p>
       Masters of Engineering, Discrete Mathematics <br/>
       1st Year: 85.2% <br/>
-      2nd Year: 88.1% (awarded for highest) <br/>
-      3rd Year: 88.3% (awarded for project) <br/>
+      2nd Year: 88.1% (awarded) <br/>
+      3rd Year: 88.3% (awarded) <br/>
+      4th Year: 80.2% (awarded) <br/>
       All are a high first, >70% is a first.
     </p>
   date: Sep. 2021 - present
@@ -88,6 +95,10 @@ education:
   date: Sep. 2017 - Jul. 2019
 
 experience:
+- name: University of Oxford
+  logo: /assets/images/badges/oxford_logo.png
+  position: Doctoral Student
+  date: Oct. 2025 - Present
 - name: University of Warwick - URSS Research Project
   logo: /assets/images/badges/warwick_logo.jpeg
   position: AI Researcher
@@ -102,6 +113,10 @@ experience:
   date: June 2019
 
 awards:
+- name: University of Warwick - Best overall graduating MEng student in Discrete Mathematics
+  date: 2025
+- name: Warwick Award (Silver)
+  date: 2025
 - name: University of Warwick - Outstanding Department of Computer Science Third-Year Project Prize
   date: 2024
 - name: University of Warwick - Exceptional achievement in the second year for Discrete Maths
